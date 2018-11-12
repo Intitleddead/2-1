@@ -1,0 +1,80 @@
+html {
+    background: #000000;
+}
+
+.class1 {
+
+    background: linear-gradient(to top left, #000000, #ffffff);
+    font-size: 25px; 
+    color: #ffffff; 
+    height: 300px; 
+    width: 500px; 
+    top: 200px;
+    margin: auto;
+    position: relative;
+}
+
+.class2 {
+    position: relative;
+    top: 40px;
+}
+
+.class3 {
+    position: relative;
+
+}
+
+
+
+input::-webkit-input-placeholder { color: white; }
+  
+  .button1 {
+    background: #888888;
+    padding: 9px 20px;
+    color:  #ffffff; 
+    border: 2px solid #ffffff; 
+    border-radius: 5px;
+  
+  }
+
+  .button2 {
+      background: #888888;
+      padding: 9px 20px;
+      color: #ffffff;
+      border: 2px solid #ffffff;
+      border-radius: 5px;
+  }
+
+  .button3 {
+      width: 235px;
+      height: 40px; 
+      background: #888888;
+      padding: 9px 20px;
+      color: #ffffff;
+      border: 2px solid #ffffff;
+      border-radius: 5px;
+  }
+
+
+
+
+input {
+  
+    font-family: "Arial", sans-serif;
+  
+    font-size: 15px; 
+  
+  }
+  
+  p{
+  
+    font-family: "Arial", sans-serif;
+  
+    font-size: 35px; 
+  
+    color: white;
+  
+  
+  
+  }
+
